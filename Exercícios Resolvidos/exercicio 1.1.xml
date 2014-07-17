@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_height="100px"
+        android:layout_width="match_parent"
+        android:text="Hello World"
+        android:gravity="right"
+        android:background="#ff49ff3a"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="100px"
+        android:background="#ffff0018"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="100px"
+        android:background="#ffff457b"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ff205eff"/>
+</LinearLayout>
